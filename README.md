@@ -29,7 +29,65 @@ The BMS integrates and supervises several major building systems:
 - 🖥️ Centralized web supervision through Home Assistant
 
 ---
+## 🖥️ BMS Interface Screenshots
 
+The following screenshots present selected views from the Home Assistant-based BMS interface used for monitoring and control of the building systems.
+
+### 🏢 Central Building
+
+<img src="assets/screenshots/corp central iluminat.png" width="100%" alt="Central Building Lighting Control">
+
+<img src="assets/screenshots/corp central ventilo.png" width="100%" alt="Central Building Fan Coil Control">
+
+---
+
+### 🌬️ Air Handling Units
+
+<img src="assets/screenshots/cta.png" width="100%" alt="Air Handling Unit Control">
+
+<img src="assets/screenshots/cta2.png" width="100%" alt="Air Handling Unit Monitoring">
+
+---
+
+### 📊 Main Dashboards
+
+<img src="assets/screenshots/dashboard1.png" width="100%" alt="BMS Main Dashboard 1">
+
+<img src="assets/screenshots/dashboard2.png" width="100%" alt="BMS Main Dashboard 2">
+
+<img src="assets/screenshots/dashboard3.png" width="100%" alt="BMS Main Dashboard 3">
+
+<img src="assets/screenshots/dashboard4.png" width="100%" alt="BMS Main Dashboard 4">
+
+---
+
+### ☀️ Photovoltaic Monitoring
+
+<img src="assets/screenshots/fotovoltaice.png" width="100%" alt="Photovoltaic Energy Monitoring">
+
+---
+
+### 💡 Lighting Control
+
+<img src="assets/screenshots/iluminat arhitectural.png" width="100%" alt="Architectural Lighting Control">
+
+<img src="assets/screenshots/iluminat_dep_nou.png" width="100%" alt="New Book Storage Lighting Control">
+
+<img src="assets/screenshots/iluminat_dep_vechi.png" width="100%" alt="Old Book Storage Lighting Control">
+
+---
+
+### ♻️ Heat Recovery Units
+
+<img src="assets/screenshots/recuperatoare1.png" width="100%" alt="Heat Recovery Units Monitoring 1">
+
+<img src="assets/screenshots/recuperatoare2.png" width="100%" alt="Heat Recovery Units Monitoring 2">
+
+---
+
+### 🌡️ Fan Coil & Room Control
+
+<img src="assets/screenshots/ventilodemisol.png" width="100%" alt="Basement Fan Coil Control">
 ## 💡 Lighting Automation
 
 ### 🌇 Architectural Lighting
@@ -156,6 +214,7 @@ This allows:
 - ⚡ Energy-efficient lighting strategies
 
 ---
+
 
 ## 🌐 Ethernet Network
 
