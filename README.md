@@ -109,23 +109,40 @@ Functions include:
 - 🗺️ Data point mapping
 - 🔗 Integration into the centralized BMS interface
 
----
+--
 
 ## 🔌 KNX Infrastructure
 
 The building automation infrastructure is based on **Schneider Electric KNX equipment**.
 
-KNX is used for:
+The KNX system is used for:
 
 - 💡 Lighting automation
 - 🚶 Presence detection
 - 🔗 DALI integration
 - ⚙️ Control logic
-- 🏢 Building automation functions
+- 🌡️ Local temperature control
+- 🌀 Fan Coil Unit control
+- 🎚️ Fan speed control
+- 🔥 / ❄️ Heating and cooling demand
+- 🚰 Valve control based on room temperature
 - 📡 Communication between field devices and control systems
 
----
+### 🖥️ 4" KNX Touch Units
 
+4-inch KNX touch units are used as local room interfaces for both **comfort control and lighting management**.
+
+Through the touch interface, users can:
+
+- Adjust the room temperature setpoint
+- Control Fan Coil Unit operation
+- Select or manage fan speeds
+- Control heating / cooling valves based on temperature demand
+- Control room lighting
+
+The touch units act as local user interfaces within the KNX automation system, while the control logic coordinates the room conditions and connected equipment.
+
+--
 ## 💡 KNX-DALI Integration
 
 DALI lighting is integrated into the KNX infrastructure to provide flexible lighting control.
