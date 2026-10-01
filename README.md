@@ -109,7 +109,7 @@ Functions include:
 - 🗺️ Data point mapping
 - 🔗 Integration into the centralized BMS interface
 
---
+---
 
 ## 🔌 KNX Infrastructure
 
@@ -142,7 +142,7 @@ Through the touch interface, users can:
 
 The touch units act as local user interfaces within the KNX automation system, while the control logic coordinates the room conditions and connected equipment.
 
---
+---
 ## 💡 KNX-DALI Integration
 
 DALI lighting is integrated into the KNX infrastructure to provide flexible lighting control.
