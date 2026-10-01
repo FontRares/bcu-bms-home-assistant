@@ -45,7 +45,6 @@ The following screenshots present selected views from the Home Assistant-based B
 
 <img src="assets/screenshots/cta.png" width="100%" alt="Air Handling Unit Control">
 
-<img src="assets/screenshots/cta2.png" width="100%" alt="Air Handling Unit Monitoring">
 
 ---
 
